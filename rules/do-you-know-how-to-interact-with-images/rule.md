@@ -12,17 +12,6 @@ related: []
 redirects: []
 
 ---
-::: bad
-Bad Example: An important research task that hasn't is missing records of communication
-:::
-
-::: good
-Good Example: Email is copied to the description
-:::
-
-::: good
-Good Example: Related emails are attached to the PBI
-:::
 
 
 There are three main ways of interacting with a  single image outside of a gallery that is not an intended link to another website.  Each of these has a use and purpose depending on the time on the workflow of the user, and context of the image.  So when should I apply these interactions to an image?
