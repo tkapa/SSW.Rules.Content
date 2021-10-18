@@ -22,13 +22,15 @@ Zoom Control is the ability to zoom in on an image in the same page, with the ab
 Zoom Control should be used when -
   * By default if the image has a larger scale to view
   * You want to maximize accessibility.
+  * You want to maintain the user workflow.
 
 ## New Tab
 New Tab opens the image in a new tab by itself at a larger scale.  This should be indicated by a Link Pointer Cursor when hovering over this image.
 New Tabs should be used when -
 
-  * It is a manual or instructions, or something that should interrupt the current workflow
+  * It is a manual, instructions, or something that should interrupt the current workflow
   * It is meant to be printed
+  * It is a very high resolution that you want to give the user access too.
   * It is hosted externally.
 
 ## No Interaction
