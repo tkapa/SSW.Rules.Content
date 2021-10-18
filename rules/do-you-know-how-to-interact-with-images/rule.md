@@ -24,8 +24,17 @@ Good Example: Email is copied to the description
 Good Example: Related emails are attached to the PBI
 :::
 
-When attaching an email to the PBI, consider whether or not a response to the email is required. The sender will usually expect a response when the issue is resolved. If a response is required, update the Acceptance Criteria with a note. E.g. Send a done email in reply to the original email (attached).
+There are three main ways of interacting with an image that is not an intended link on a website. 
 
-Related rules
-Do you know the 3 steps to a PBI?
-Dones - Do you send yourself emails?
+* Clicking the image will open a larger scale version of the image in a new tab.
+* Clicking the image will create a zoomed version of the image on the same page.
+* No interaction at all.
+
+Each of these has a use and purpose depending on the time on the workflow of the user, and context of the image.
+
+
+
+
+
+
+They all have a use depending on the context of the image and the workflow of the person using the website.
