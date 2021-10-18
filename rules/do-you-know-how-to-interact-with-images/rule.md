@@ -28,7 +28,7 @@ Zoom Control should be used when -
 New Tab opens the image in a new tab by itself at a larger scale.  This should be indicated by a Link Pointer Cursor when hovering over this image.
 New Tabs should be used when -
 
-  * It is a manual, instructions, or something that should interrupt the current workflow
+  * It is a manual, instructions or something that should interrupt the current workflow
   * It is meant to be printed
   * It is a very high resolution that you want to give the user access too.
   * It is hosted externally.
