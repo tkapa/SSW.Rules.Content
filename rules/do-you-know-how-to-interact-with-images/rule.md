@@ -19,14 +19,16 @@ There are three main ways of interacting with a  single image outside of a galle
 ### 1. Zoom Control
 Zoom Control is the ability to zoom in on an image in the same page, with the ability to return to normal workflow quite quickly.  This should be indicated by a Magnifying Glass Cursor on when hovering over this image. 
 
-Zoom Control should be used when -
+Zoom Control should be used when:
+
   * By default if the image has a larger scale to view
   * You want to maximize accessibility.
   * You want to maintain the user workflow.
 
 ### 2. New Tab
 New Tab opens the image in a new tab by itself at a larger scale.  This should be indicated by a Link Pointer Cursor when hovering over this image.
-New Tabs should be used when -
+
+New Tabs should be used when:
 
   * It is a manual, instructions or something that should interrupt the current workflow
   * It is meant to be printed
@@ -34,7 +36,9 @@ New Tabs should be used when -
   * It is hosted externally.
 
 ### 3. No Interaction
-No interaction should be used when.  The cursor should not change when hovering over this image.
+No interactions means that the image is not clickable. The cursor should not change when hovering over this image.
+
+No interaction should be used when:  
 
   * The image is close to full scale already
   * The image is more for style and decoration.
