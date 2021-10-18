@@ -16,7 +16,7 @@ redirects: []
 
 There are three main ways of interacting with a  single image outside of a gallery that is not an intended link to another website.  Each of these has a use and purpose depending on the time on the workflow of the user, and context of the image.  So when should I apply these interactions to an image?
 
-## Zoom Control
+### Zoom Control
 Zoom Control is the ability to zoom in on an image in the same page, with the ability to return to normal workflow quite quickly.  This should be indicated by a Magnifying Glass Cursor on when hovering over this image. 
 
 Zoom Control should be used when -
@@ -24,7 +24,7 @@ Zoom Control should be used when -
   * You want to maximize accessibility.
   * You want to maintain the user workflow.
 
-## New Tab
+### New Tab
 New Tab opens the image in a new tab by itself at a larger scale.  This should be indicated by a Link Pointer Cursor when hovering over this image.
 New Tabs should be used when -
 
@@ -33,12 +33,14 @@ New Tabs should be used when -
   * It is a very high resolution that you want to give the user access too.
   * It is hosted externally.
 
-## No Interaction
+### No Interaction
 No interaction should be used when.  The cursor should not change when hovering over this image.
 
   * The image is close to full scale already
   * The image is more for style and decoration.
 
+### Summary
+So the best way to  provide interaction with images depends on the context and the users needs.  Follow these rules to give your users the best experience you can.
 
 
 
