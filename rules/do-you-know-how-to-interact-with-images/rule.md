@@ -24,13 +24,31 @@ Good Example: Email is copied to the description
 Good Example: Related emails are attached to the PBI
 :::
 
+
 There are three main ways of interacting with an image that is not an intended link on a website. 
 
-* Clicking the image will open a larger scale version of the image in a new tab.
-* Clicking the image will create a zoomed version of the image on the same page.
-* No interaction at all.
+* Clicking the image will open a larger scale version of the image in a new tab. (New Tab)
+* Clicking the image will create a zoomed version of the image on the same page. (Zoom Control)
+* No interaction at all. (No Interaction)
 
-Each of these has a use and purpose depending on the time on the workflow of the user, and context of the image.
+Each of these has a use and purpose depending on the time on the workflow of the user, and context of the image.  So when should I apply these interactions to an image?
+
+## New Tab
+New Tabs should be used when -
+* It's an image from an external site
+* It is a very high resolution image.
+* It is a manual or instructions, or something that should interrupt the current workflow.
+* It is an meant to be printed
+
+## Zoom Control
+Zoom Control should be used when -
+* By default if the image has a larger scale to view.
+* For accessibility reasons
+
+## No Interaction
+No interaction should be used when -
+* The image is close to full scale already
+* The image is more for style and decoration.
 
 
 
