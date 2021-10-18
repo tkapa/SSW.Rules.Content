@@ -1,28 +1,27 @@
-type	archivedreason	title	guid	uri	created	authors	related	redirects
-rule
-Do you attach and copy emails to the PBI?
-ea3e93e7-c35d-4709-ae2e-916d0a282cb0
-attach-and-copy-emails-to-the-pbi
-2019-03-13 04:19:36 UTC
-title	url
-Adam Cogan
-https://ssw.com.au/people/adam-cogan
-title	url
-Andreas Lengkeek
-https://ssw.com.au/people/andreas-lengkeek
-title	url
-Barry Sanders
-https://ssw.com.au/people/barry-sanders
-title	url
-Jernej Kavka
-https://ssw.com.au/people/jernej-kavka
-title	url
-Patricia Barros
-https://ssw.com.au/people/patricia-barros
-do-you-attach-emails-to-the-pbi
-do-you-attach-and-copy-emails-to-the-pbi
-While working on a task or PBI, it is very important that you save any discussions or contextual information related to the work completed. This helps for future understanding of what happened as well as providing relevant documents that support your research claims.
+---
+type: rule
+archivedreason: 
+title: Do you attach and copy emails to the PBI?
+guid: ea3e93e7-c35d-4709-ae2e-916d0a282cb0
+uri: attach-and-copy-emails-to-the-pbi
+created: 2019-03-13T04:19:36.0000000Z
+authors:
+- title: Adam Cogan
+  url: https://ssw.com.au/people/adam-cogan
+- title: Andreas Lengkeek
+  url: https://ssw.com.au/people/andreas-lengkeek
+- title: Barry Sanders
+  url: https://ssw.com.au/people/barry-sanders
+- title: Jernej Kavka
+  url: https://ssw.com.au/people/jernej-kavka
+- title: Patricia Barros
+  url: https://ssw.com.au/people/patricia-barros
+related: []
+redirects:
+- do-you-attach-emails-to-the-pbi
+- do-you-attach-and-copy-emails-to-the-pbi
 
+---
 ::: bad
 Bad Example: An important research task that hasn't is missing records of communication
 :::
