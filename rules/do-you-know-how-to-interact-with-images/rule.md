@@ -1,10 +1,10 @@
 ---
 type: rule
 archivedreason: 
-title: Do you attach and copy emails to the PBI?
-guid: ea3e93e7-c35d-4709-ae2e-916d0a282cb0
-uri: attach-and-copy-emails-to-the-pbi
-created: 2019-03-13T04:19:36.0000000Z
+title: Do you know how to interact with images?
+guid: 68d487e1-7707-45d1-aeea-ce3545de3c64
+uri: do-you-know-how-to-interact-with-images
+created: 2020-10-18T12:00:00.0000000Z
 authors:
 - title: Dale Chester
   url: https://ssw.com.au/people/dale-chester
