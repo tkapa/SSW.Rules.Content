@@ -1,9 +1,9 @@
 ---
 type: rule
 archivedreason: 
-title: Do you know how to interact with images?
+title: Do you know how to create image interactions?
 guid: 68d487e1-7707-45d1-aeea-ce3545de3c64
-uri: do-you-know-how-to-interact-with-images
+uri: do-you-know-how-to-create-image-interactions
 created: 2020-10-18T12:00:00.0000000Z
 authors:
 - title: Dale Chester
