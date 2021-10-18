@@ -13,7 +13,7 @@ redirects: []
 
 ---
 
-How users can interact with an image is dependant on the context of the image and the intended user workflow.  Follow these guide lines to help you decide which interaction to use to give your users the best experience you can.
+How users can interact with an image is dependant on the context of the image and the intended user workflow.  Follow these guide lines to help you decide which interaction to use, to give your users the best experience you can.
 
 
 ### 1. Zoom Control
