@@ -39,11 +39,21 @@ New Tabs should be used when:
   * It is meant to be printed
   * It is a very high resolution that you want to give the user access too.
   * It is hosted externally.
-  
-*TODO: Add Live Example*
+
+::: good  
+![Figure: Good Example – Instructions or printables are perfect for opening in a new tab.](bad_example.jpg)  
+:::
 
 ### 3. No Interaction
 No interactions means that the image is not clickable. The cursor should not change when hovering over an image with No Interaction.
+
+::: bad  
+![Figure: Bad Example – Zooming in or opening a new tab does not provide any more image detail](bad_example.jpg)  
+:::
+
+::: good  
+![Figure: Good Example – If the maximum image size is small, then remove interaction from it](bad_example.jpg)  
+:::
 
 No interaction should be used when:  
 
