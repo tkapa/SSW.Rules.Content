@@ -27,7 +27,7 @@ Modal Image should be used when:
   * Should be considered the default choice for clickable images
 
 ::: good  
-![Figure: Magnifying glass showing that an image can be modal](zoomed-out.png)  
+![Figure: Magnifying glass showing that an image can be modal](zoomed-in.png)  
 :::
 
 ### 2. New Tab
@@ -47,6 +47,12 @@ New Tabs should be used when:
 ### 3. No Interaction
 No interactions means that the image is not clickable. The cursor should not change when hovering over an image with No Interaction.
 
+
+No interaction should be used when:  
+
+  * The image is close to full scale already
+  * The image is more for style and decoration.
+  
 ::: bad  
 ![Figure: Bad Example – Zooming in or opening a new tab does not provide any more image detail](bad_example.png)  
 :::
@@ -54,12 +60,5 @@ No interactions means that the image is not clickable. The cursor should not cha
 ::: good  
 ![Figure: Good Example – If the maximum image size is small, then remove interaction from it](no_interaction.png)  
 :::
-
-No interaction should be used when:  
-
-  * The image is close to full scale already
-  * The image is more for style and decoration.
-  
-*TODO: Add Live Example*
 
 
