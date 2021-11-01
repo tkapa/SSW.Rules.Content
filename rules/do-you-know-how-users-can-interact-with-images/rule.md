@@ -41,7 +41,7 @@ New Tabs should be used when:
   * It is hosted externally.
 
 ::: good  
-![Figure: Good Example – Instructions or printables are perfect for opening in a new tab.](bad_example.png)  
+![Figure: Good Example – Instructions or printables are perfect for opening in a new tab.](new_tab.png)  
 :::
 
 ### 3. No Interaction
@@ -52,7 +52,7 @@ No interactions means that the image is not clickable. The cursor should not cha
 :::
 
 ::: good  
-![Figure: Good Example – If the maximum image size is small, then remove interaction from it](bad_example.png)  
+![Figure: Good Example – If the maximum image size is small, then remove interaction from it](no_interaction.png)  
 :::
 
 No interaction should be used when:  
