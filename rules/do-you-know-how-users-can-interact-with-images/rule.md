@@ -26,7 +26,9 @@ Modal Image should be used when:
   * To maintain the user workflow
   * Should be considered the default choice for clickable images
 
-*TODO: Add Live Example*
+::: good  
+![Figure: Magnifying glass showing that an image can be modal](zoomed-out.png)  
+:::
 
 ### 2. New Tab
 New Tab opens the image in a new tab by itself at a larger scale. A New Tab should be indicated by a Link Pointer Cursor when hovering over this image.
