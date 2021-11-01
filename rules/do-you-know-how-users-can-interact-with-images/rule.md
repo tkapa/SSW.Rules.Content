@@ -54,7 +54,7 @@ No interaction should be used when:
   * The image is more for style and decoration.
   
 ::: bad  
-![Figure: Bad Example – This unneeded interaction wastes the users time.](bad_example.jpg)  
+![Figure: Bad Example – This unneeded interaction wastes the users time.](bad_tab_example.jpg)  
 :::
 
 ::: good  
