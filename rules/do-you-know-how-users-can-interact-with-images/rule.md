@@ -27,7 +27,7 @@ Modal Image should be used when:
   * Should be considered the default choice for clickable images
 
 ::: good  
-![Figure: An image modal zoomed in after clicking it.  Returning out of zoom should be a simple scroll or click.](zoomed-in.png)  
+![Figure: An image modal zoomed in after clicking it.  Returning out of zoom should be a simple scroll or click.](zoomed-in.jpg)  
 :::
 
 ### 2. New Tab
@@ -41,7 +41,7 @@ New Tabs should be used when:
   * It is hosted externally.
 
 ::: good  
-![Figure: Good Example – Instructions or printables are perfect for opening in a new tab.](new_tab.png)  
+![Figure: Good Example – Instructions or printables are perfect for opening in a new tab.](new_tab.jpg)  
 :::
 
 ### 3. No Interaction
@@ -54,11 +54,11 @@ No interaction should be used when:
   * The image is more for style and decoration.
   
 ::: bad  
-![Figure: Bad Example – Zooming in or opening a new tab does not provide any more image detail.](bad_example.png)  
+![Figure: Bad Example – Zooming in or opening a new tab does not provide any more image detail.](bad_example.jpg)  
 :::
 
 ::: good  
-![Figure: Good Example – If the maximum image size is small then it is best to remove interaction from it.](no_interaction.png)  
+![Figure: Good Example – If the maximum image size is small then it is best to remove interaction from it.](no_interaction.jpg)  
 :::
 
 
