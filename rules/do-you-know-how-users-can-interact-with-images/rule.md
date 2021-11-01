@@ -54,11 +54,11 @@ No interaction should be used when:
   * The image is more for style and decoration.
   
 ::: bad  
-![Figure: Bad Example – Zooming in or opening a new tab does not provide any more image detail.](bad_example.jpg)  
+![Figure: Bad Example – This unneeded interaction wastes the users time.](bad_example.jpg)  
 :::
 
 ::: good  
-![Figure: Good Example – If the maximum image size is small then it is best to remove interaction from it.](no_interaction.jpg)  
+![Figure: Good Example – Turn off interactions if the original image size is small or is simply decorative.](no_interaction.jpg)  
 :::
 
 
