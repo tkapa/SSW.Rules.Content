@@ -6,6 +6,6 @@ uri: rules-to-better-scrum-using-github
 index:
 - scrum-in-github
 - github-sprint-templates
-- do-you-have-the-best-github-issue-template
+- github-issue-templates
 
 ---
